@@ -1,0 +1,30 @@
+#foto{
+   
+    width: 25%;
+    
+}
+#cita{
+    font-size: 15px;
+}
+#ffoto{
+    text-align: center;
+}
+body{
+    background-color: wheat;
+    border: double;
+    border-width: 5px;
+    margin-top: 50px;
+}
+
+#link{
+    padding: 50px;
+    flex-direction: flex start
+;
+}
+#lista{
+    display: flex;
+    flex-direction: column-reverse;
+}
+#f{
+    text-align: right;
+}
